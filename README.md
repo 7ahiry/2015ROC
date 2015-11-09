@@ -54,7 +54,6 @@ Il faut que votre projet soit: Original, qui marche, et qui peut potentiellement
 - Une partie "Buisness" dans laquelle vous présenter le coût (matériel et humain), la possible commercialisation , les aspects marketing, une petite étude de marché (il faut être original, voir ce qui existe, comment vous vous différenciez)
 - Une partie "Gestion de projet" dans laquelle vous décrivez les outils de gestion (Gantt, KanBan, ...), la répartition des tâches, ...
 - Une partie "Techniques" dans laquelle vous montrez l'implémentation de la solution (démo, code, ...), vous justifiez les choix techniques et technologiques, ...
-- 
 
 # Indication de timeline
 
