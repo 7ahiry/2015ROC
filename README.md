@@ -38,6 +38,7 @@ __AMUSEZ-VOUS__
   * Température (TMP102)
   * MPL115AA
   * Lumière (LDR)
+- Grove Hall Sensor
 
 # Ce qu'on attend de vous
 
